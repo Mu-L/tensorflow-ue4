@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.5.0beta",
+	"VersionName": "1.6.0beta",
 	"FriendlyName": "TensorFlow",
 	"Description": "Unofficial TensorFlow plugin for UE4. Enables machine learning via python and blueprints.",
 	"Category": "Computing",
